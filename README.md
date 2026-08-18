@@ -1,6 +1,6 @@
-# 💫 About Me:
 
-Hi, I'm **Aqib** 👋
+
+# Hi, I'm **Aqib** 👋
 
 I'm a **MERN Stack Developer** with 1.5+ years of professional experience in building responsive, scalable, and user-focused web applications. I hold a **B.Tech in Computer Science Engineering** and enjoy turning ideas into clean, interactive, and efficient digital experiences.
 
