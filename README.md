@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammad%20Aqib&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20%7C%20Next.js%20%7C%20AI-Powered%20Web%20Apps&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,35:0072FF,70:0047AB,100:0A2A6B&height=220&section=header&text=Mohammad%20Aqib&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=MERN%20Stack%20%7C%20Next.js%20%7C%20AI-Powered%20Web%20Apps&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%7C+1.5%2B+Years+Experience;Building+scalable%2C+user-focused+web+apps;Exploring+AI%2FML+%26+AI+Automation" alt="Typing SVG" />
@@ -164,4 +164,4 @@ I'm always open to interesting projects, open-source collaboration, and new oppo
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2A6B,35:0047AB,70:0072FF,100:00C6FF&height=120&section=footer" alt="Footer" width="100%" />
