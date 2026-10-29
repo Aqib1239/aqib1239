@@ -158,7 +158,7 @@ I'm always open to interesting projects, open-source collaboration, and new oppo
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqib8577@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-aqib-0316a3220/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://maqibportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://maqib-sigma.vercel.app)
 
 *⭐ If you like any of these projects, a star on the repo is always appreciated.*
 
