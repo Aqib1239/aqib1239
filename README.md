@@ -54,16 +54,14 @@ I'm a **MERN Stack Developer** with **1.5+ years** of professional experience bu
 
 ## 🚀 Featured Projects
 
-<!--
-  Replace each block with your real projects. Keep 3–4 of your best ones.
-  Tip: pin the same repos on your profile so both views match.
--->
-
-| Project | Description | Tech | Links |
+| Project | What it does | Tech | Links |
 |---|---|---|---|
-| **Project One** | One line on what it does and the problem it solves. | `Next.js` `TypeScript` `MongoDB` | [Live](https://) · [Code](https://github.com/aqib1239) |
-| **Project Two** | One line on what it does and the problem it solves. | `React` `Node.js` `Express` | [Live](https://) · [Code](https://github.com/aqib1239) |
-| **Project Three** | One line on what it does and the problem it solves. | `MERN` `REST API` | [Live](https://) · [Code](https://github.com/aqib1239) |
+| **⚡ [VA Nexus CRM](https://github.com/Aqib1239/VA-Naxus-CRM)** | Enterprise lead-lifecycle platform enforcing a strict 5-department pipeline (Marketing → Communication → Vigilance → Support → Sales), with role-based dashboards, mandatory audio-compliance gating, and a dual AI subsystem (OpenRouter command center + Gemini copilots). | `Next.js` `TypeScript` `Express` `MongoDB` `Tailwind` `Gemini` | [Live](https://va-nexus-crm.vercel.app) · [Code](https://github.com/Aqib1239/VA-Naxus-CRM) |
+| **🎨 [Shira's Strokes Studio](https://github.com/Aqib1239/shiras-strokes-studio)** | Storefront and admin dashboard for a handmade-creations brand: product catalogue, custom-order enquiries, review management, and Cloudinary-backed image uploads. | `Next.js 15` `React 19` `Express` `MongoDB` `Cloudinary` `Framer Motion` | [Live](https://shiras-strokes-backend.vercel.app) · [Code](https://github.com/Aqib1239/shiras-strokes-studio) |
+| **💬 [QuickTalk Chat App](https://github.com/Aqib1239/chat-application)** | Real-time chat with text and image messages, JWT-based auth, persistent chat history, and a responsive UI. | `React` `Socket.io` `Node.js` `MongoDB` `Tailwind` `Cloudinary` | [Live](https://quicktalk-application.onrender.com/) · [Code](https://github.com/Aqib1239/chat-application) |
+| **📝 [MERN Blog App](https://github.com/Aqib1239/mern-blog-app)** | Full-stack blogging platform with user accounts, author profiles, category pages, rich-text post editing, and create/edit/delete flows. | `React` `Node.js` `Express` `MongoDB` `React Router` | [API](https://mern-blog-app-api-olive.vercel.app) · [Code](https://github.com/Aqib1239/mern-blog-app) |
+| **🌐 [Next.js Portfolio](https://github.com/Aqib1239/Nextjs_Portfolio)** | Personal developer portfolio built with the Next.js App Router and Tailwind CSS. | `Next.js` `Tailwind CSS` `shadcn/ui` | [Live](https://maqib-sigma.vercel.app/) · [Code](https://github.com/Aqib1239/Nextjs_Portfolio) |
+| **💍 [3D Wedding Invite](https://github.com/Aqib1239/wedding-invite-3d)** | Interactive, animated digital wedding invitation built as a modern Next.js web experience. | `Next.js` `TypeScript` `Tailwind CSS` | [Live](https://beloved-daughter-w-mateen.vercel.app) · [Code](https://github.com/Aqib1239/wedding-invite-3d) |
 
 ---
 
@@ -82,9 +80,80 @@ I'm a **MERN Stack Developer** with **1.5+ years** of professional experience bu
 
 ---
 
+## 🧩 What I Bring
+
+Drawn from the projects above, here's the kind of work I can take on end to end:
+
+| Area | What I've built |
+|---|---|
+| 🔐 **Auth & access control** | JWT authentication, bcrypt password hashing, role-based access control across 6 user roles, protected admin routes |
+| ⚡ **Real-time features** | WebSocket messaging with Socket.io, live updates, chat history with auto-scroll |
+| 🤖 **AI integration** | LLM-powered assistants and copilots using OpenRouter and Google Gemini, with server-side API keys and department-scoped data access |
+| 🗄️ **Backend & data** | REST APIs with Express, MongoDB/Mongoose schemas, indexing and lean queries, Zod request validation, rate limiting |
+| ☁️ **Media & storage** | Image and audio uploads with Multer and Cloudinary, plus local fallback handling |
+| 🎨 **UI engineering** | Responsive, accessible interfaces with Tailwind, Framer Motion animations, and reusable component systems |
+| 🚢 **Deployment** | Frontends on Vercel, APIs on Vercel/Render, environment-based configuration |
+
+---
+
+## 🧭 How I Work
+
+- **Clean, typed code**: TypeScript-first where it matters, with schema validation at API boundaries.
+- **Ship, then refine**: working vertical slices first, then performance, accessibility, and polish.
+- **Security by default**: secrets in environment variables, sanitized logs, locked-down admin routes.
+- **Clear communication**: readable READMEs, documented endpoints, and honest status updates.
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 **AI/ML fundamentals** and **AI automation** workflows
+- 🧠 Building **LLM-powered features** into full-stack apps (tool calling, structured outputs, copilots)
+- 🧪 Deeper **testing practices** (Jest, Supertest, React Testing Library)
+- 🐳 **Docker** and deployment pipelines
+
+---
+
+## 📬 Open To
+
+- 💼 Full-time roles and freelance projects in **MERN / Next.js** development
+- 🤝 **Open-source** collaboration
+- 🧑‍🏫 Knowledge sharing and code reviews
+
+---
+
+<details>
+<summary><b>📚 Full Tech Inventory (click to expand)</b></summary>
+
+<br/>
+
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, TypeScript, Python, HTML5, CSS3 |
+| **Frontend** | React.js, Next.js, React Router, React Hook Form, Tailwind CSS, Chakra UI, DaisyUI, Framer Motion, Vite |
+| **Backend** | Node.js, Express.js, REST APIs, JWT, Socket.io, Multer |
+| **Database** | MongoDB, Mongoose |
+| **AI / Integrations** | OpenRouter, Google Gemini API, Cloudinary |
+| **Testing** | Jest, Supertest, React Testing Library |
+| **DevOps & Tools** | Git, GitHub, Docker, Postman, Jira, Prettier, Vercel, Render, Netlify |
+| **Design** | Figma, Canva, Framer |
+
+</details>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always open to interesting projects, open-source collaboration, and new opportunities.
-Reach out via [email](mailto:maqib8577@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohammad-aqib-0316a3220/).
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqib8577@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-aqib-0316a3220/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://maqibportfolio.vercel.app/)
+
+*⭐ If you like any of these projects, a star on the repo is always appreciated.*
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="Footer" width="100%" />
