@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://maqibportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://maqib-sigma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-aqib-0316a3220/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqib8577@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=aqib1239&label=Profile%20Views&color=0e75b6&style=for-the-badge)
@@ -46,7 +46,15 @@ I'm a **MERN Stack Developer** with **1.5+ years** of professional experience bu
 
 **Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,jira,figma&theme=dark" alt="Tools" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,figma&theme=dark"
+  alt="Tools"
+/>
+<img
+  src="https://cdn.simpleicons.org/jira/2684FF"
+  alt="Jira"
+  height="48"
+/>
 
 </div>
 
