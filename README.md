@@ -82,7 +82,7 @@ I'm a **MERN Stack Developer** with **1.5+ years** of professional experience bu
 
 <img height="170" src="https://streak-stats.demolab.com/?user=aqib1239&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib1239&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib1239&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />](https://github-readme-activity-graph.vercel.app/graph?username=aqib1239&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
